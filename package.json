@@ -1,0 +1,9 @@
+{
+    "name": "cmd-input",
+    "version": "0.0.1",
+    "author": "Prashanth <munichlinux@gmail.com>",
+    "engines": { "node": ">= 0.8.x" },
+    "dependencies": {
+        "node": ">=0.8.x"
+    }
+}
